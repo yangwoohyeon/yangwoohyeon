@@ -44,6 +44,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangwoohyeon&show_icons=true&theme=tokyonight)
 
-
+## ✉️ Contact me ✉️
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://developerwoohyeon.tistory.com/)](https://developerwoohyeon.tistory.com/)   [![Email](https://img.shields.io/badge/Email-dngus0717%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dngus0717@gmail.com)
 
 
