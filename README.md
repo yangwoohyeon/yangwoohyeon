@@ -5,7 +5,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://camo.githubusercontent.com/544b1e95db239432054f317739017671fe9865931d3afe8e3dc4a25a8c333510/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" alt="Java Badge">
+       <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
     </div>
     <!-- Database -->
