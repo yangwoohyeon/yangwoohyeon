@@ -13,6 +13,7 @@
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/H2-007D9C?style=flat-square&logo=H2&logoColor=white" alt="H2 Badge"/></a>
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
