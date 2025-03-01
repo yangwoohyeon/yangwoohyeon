@@ -50,9 +50,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yangwoohyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+
 <p align="center"> 
-  🧐Are you curious about <strong>ME?!</strong> <br> 
-  👉<a href="[https://dodo-elice.notion.site/_-afac1a51ee10495aa94b0c595eeffdc8?pvs=4](https://www.notion.so/1a91a87a915980d79ad8c0993e844b22?pvs=4)">Portfolio</a>👈
+  🔎 Want to know more about me? <strong>ME?!</strong> <br> 
+  👉 <a href="https://www.notion.so/1a91a87a915980d79ad8c0993e844b22?pvs=4" target="_blank">Portfolio</a> 👈
 </p>
 
 
