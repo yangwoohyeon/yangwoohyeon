@@ -53,7 +53,7 @@
 
 <p align="center"> 
   🔎 Want to know more about me? <strong>ME?!</strong> <br> 
-  👉 <a href="https://www.notion.so/1a91a87a915980d79ad8c0993e844b22?pvs=4" target="_blank">Portfolio</a> 👈
+  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank">Portfolio</a> 👈
 </p>
 
 
