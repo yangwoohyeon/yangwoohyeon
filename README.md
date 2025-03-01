@@ -50,6 +50,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yangwoohyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<p align="center"> 
+  🧐Are you curious about <strong>ME?!</strong> <br> 
+  👉<a href="[https://dodo-elice.notion.site/_-afac1a51ee10495aa94b0c595eeffdc8?pvs=4](https://www.notion.so/1a91a87a915980d79ad8c0993e844b22?pvs=4)">Portfolio</a>👈
+</p>
+
 
 ## ✉️ Contact me ✉️
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white&link=https://developerwoohyeon.tistory.com/)](https://developerwoohyeon.tistory.com/)   [![Email](https://img.shields.io/badge/Email-dngus0717%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dngus0717@gmail.com)
