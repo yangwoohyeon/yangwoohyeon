@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20woohyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<p align="center"> 
+  🔎 Want to know more about me? <strong>ME?!</strong> <br> 
+  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank">Portfolio</a> 👈
+</p>
+
 ## 🔨 Mainly used tools 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -50,11 +55,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yangwoohyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
-<p align="center"> 
-  🔎 Want to know more about me? <strong>ME?!</strong> <br> 
-  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank">Portfolio</a> 👈
-</p>
 
 
 ## ✉️ Contact me ✉️
