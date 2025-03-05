@@ -3,7 +3,7 @@
 
 <h1 align="center"><strong>🔎 Want to know more about me?</strong></h1>
 <p align="center">
-  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank">Portfolio</a> 👈
+  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank"><strong>Portfolio</strong></a> 👈
 </p>
 
 
