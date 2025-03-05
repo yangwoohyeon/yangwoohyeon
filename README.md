@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20woohyeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
-<h1 align="center"><strong>🔎 Want to know more about me?</strong></h1>
+---
+### 📌 Check Out My Portfolio!  
 <p align="center">
-  👉 <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank"><strong>Portfolio</strong></a> 👈
+  <a href="https://plume-stargazer-62f.notion.site/1a91a87a915980d79ad8c0993e844b22" target="_blank">
+    <img src="https://img.shields.io/badge/🌟 Portfolio-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 </p>
-
 
 
 ## 🔨 Mainly used tools 🔨
