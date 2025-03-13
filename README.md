@@ -47,6 +47,8 @@
      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 </div>
     </div>
+    <p><strong>Deployment</strong></p>
+     <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <!-- Others -->
     <p><bulb>Others</bulb></p>
     <div>
