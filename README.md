@@ -49,6 +49,7 @@
     </div>
     <p><strong>Deployment</strong></p>
      <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
     <!-- Others -->
     <p><bulb>Others</bulb></p>
     <div>
