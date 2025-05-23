@@ -61,12 +61,6 @@
 
 
 
-## 🏅 Baekjoon solved rank 🏅
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dngus7207)](https://solved.ac/dngus7207)
-
-
-
 ## 📈 GitHub stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
