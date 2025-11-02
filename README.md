@@ -13,6 +13,7 @@
     <p><strong>Database</strong></p>
     <div>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
     </div>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
