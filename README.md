@@ -3,7 +3,6 @@
 
 ## 🔨 Mainly used tools 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
        <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge">
