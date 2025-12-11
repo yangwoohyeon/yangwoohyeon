@@ -40,7 +40,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yangwoohyeon&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yangwoohyeon&theme=github_dark)
 
 
 
